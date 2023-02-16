@@ -1,0 +1,28 @@
+---
+title: "Recursos abiertos"
+listing:
+  id: recursos
+  contents:
+    - "exposiciones/*.qmd"
+  type: grid
+  categories: numbered
+  fields: [image, date, title, author,asignatura,tipo,categories]
+  field-display-names:
+    author: "Docente"
+    custom-field: "Custom"
+    asignatura: "Asignatura"
+    categories: "Tipos de Recursos"
+---
+
+xxx
+
+::: {#recursos}
+:::
+
+::: {#hola}
+:::
+
+
+yyy
+
+https://quarto.org/docs/websites/website-listings.html#listing-types

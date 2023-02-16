@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "content-listing",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "recursos.html",
+    "href": "recursos.html",
+    "title": "Recursos abiertos",
+    "section": "",
+    "text": "xxx\n\n\n\n\n\n\n \n\n\n\nPara que programar\n\n\n\nVideo\n\n\nLectura\n\n\n\n\nGastón Becerra\n\n\n\n\n\n\nAsignatura\n\n\nProgramación\n\n\n\n\ntipo\n\n\nExposición\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\nyyy\nhttps://quarto.org/docs/websites/website-listings.html#listing-types"
+  },
+  {
+    "objectID": "exposiciones/para-que-programar.html",
+    "href": "exposiciones/para-que-programar.html",
+    "title": "Para que programar",
+    "section": "",
+    "text": "cuestiones osbre programar"
+  },
+  {
+    "objectID": "exposiciones/para-que-programar.html#link-video",
+    "href": "exposiciones/para-que-programar.html#link-video",
+    "title": "Para que programar",
+    "section": "link video",
+    "text": "link video\nhttps://youtu.be/RLCWxmFR-y4"
+  },
+  {
+    "objectID": "exposiciones/para-que-programar.html#bibliografia",
+    "href": "exposiciones/para-que-programar.html#bibliografia",
+    "title": "Para que programar",
+    "section": "bibliografia",
+    "text": "bibliografia\nbibliografía para este yeite"
+  },
+  {
+    "objectID": "exposiciones/para-que-programar.html#links",
+    "href": "exposiciones/para-que-programar.html#links",
+    "title": "Para que programar",
+    "section": "Links",
+    "text": "Links\nlink"
+  }
+]

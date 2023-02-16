@@ -1,0 +1,25 @@
+---
+title: "Para que programar"
+author: "Gastón Becerra"
+asignatura: "Programación"
+tipo: "Exposición"
+categories: ["Video","Lectura"]
+---
+
+## objetivos
+
+cuestiones osbre programar
+
+## link video
+
+https://youtu.be/RLCWxmFR-y4
+
+## bibliografia
+
+bibliografía para este yeite
+
+## Links
+
+[link](https://www.youtube.com/watch?v=RLCWxmFR-y4)
+
+
